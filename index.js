@@ -1,5 +1,4 @@
 
-var SG = require('strong-globalize');
-SG.SetRootDir(__dirname);
+'use strict';
 
 module.exports = require('./lib/cosmosdb');
