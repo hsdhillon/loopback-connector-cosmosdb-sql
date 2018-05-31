@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-cosmosdb-sql",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Loopback 3.x connector for Azure Cosmos DB using SQL API",
   "main": "index.js",
   "scripts": {
